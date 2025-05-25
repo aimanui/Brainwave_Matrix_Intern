@@ -11,6 +11,7 @@ https://www.figma.com/proto/kgobhNjvpXxy2S8jMoGOmU/Brainwave-Matrix-Solutions?pa
 
 
  📁 Project Pages
+ 
 - Home
 - About
 - Tour Packages
@@ -19,23 +20,35 @@ https://www.figma.com/proto/kgobhNjvpXxy2S8jMoGOmU/Brainwave-Matrix-Solutions?pa
   
 🛠️ Tools Used
 
-Figma (Free plan)
+Figma 
 GitHub for versioning and sharing
 
-📎 Google Drive Access (All Screens)
+📎 Google Drive Access All Screens
 
-[Google Drive Link]
+Google Drive Link
 (https://drive.google.com/drive/folders/1_qOPccGOehrvj-PHmJ8d6Lx0PT9-rfQQ?usp=sharing)\
 
 💬 Note
 This is a design-only project. No code has been implemented.
 
+![mockup main page](https://github.com/user-attachments/assets/5d59929f-085e-4cbf-86a2-2f567b058139)
 ![travel website mockup](https://github.com/user-attachments/assets/0187a8f1-96bd-4945-9fba-cf5810d038e8)
-![1877](https://github.com/user-attachments/assets/d15b2de7-4a58-4a57-9660-5ca053d5a647)
-
-<img width="1440" alt="Contact us" src="https://github.com/user-attachments/assets/047038c8-4353-423b-ae67-5cf6a05f5627" />
-![testimonal](https://github.com/user-attachments/assets/8157cf19-59a0-4da7-b9fa-6c4671e4e9a5)
 
 
-https://github.com/user-attachments/assets/b6d0ff10-2f92-4b65-a891-bc710d3372d8
+![Travel Website](https://github.com/user-attachments/assets/23deb671-6e2b-469f-9c69-0447b4b8a3db)
+![About Us](https://github.com/user-attachments/assets/d9d48a67-1bdb-413a-ac36-ec3d308cbe64)
+![Tour Packages](https://github.com/user-attachments/assets/6b5c57b1-0fc0-46fb-aa97-709c9a588c47)
+![testimonal](https://github.com/user-attachments/assets/aea7df63-a6fb-43d9-a2e2-288532f15554)
+![Contact us](https://github.com/user-attachments/assets/57655d94-2c91-41c1-a3d1-53fa3602cddb)
+
+
+
+
+![prototype animation](https://github.com/user-attachments/assets/f95c35eb-b7bd-4a44-bf35-c3c884b5ed4f)
+
+
+https://github.com/user-attachments/assets/649b1439-0b0c-4d1e-8cb8-9319270a6cea
+
+
+
 
