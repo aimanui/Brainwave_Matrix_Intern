@@ -30,3 +30,12 @@ GitHub for versioning and sharing
 💬 Note
 This is a design-only project. No code has been implemented.
 
+![travel website mockup](https://github.com/user-attachments/assets/0187a8f1-96bd-4945-9fba-cf5810d038e8)
+![1877](https://github.com/user-attachments/assets/d15b2de7-4a58-4a57-9660-5ca053d5a647)
+
+<img width="1440" alt="Contact us" src="https://github.com/user-attachments/assets/047038c8-4353-423b-ae67-5cf6a05f5627" />
+![testimonal](https://github.com/user-attachments/assets/8157cf19-59a0-4da7-b9fa-6c4671e4e9a5)
+
+
+https://github.com/user-attachments/assets/b6d0ff10-2f92-4b65-a891-bc710d3372d8
+
