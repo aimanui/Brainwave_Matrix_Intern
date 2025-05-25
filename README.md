@@ -1,4 +1,4 @@
-# Travlo  Travel Agency Website (UI Design)
+# Travlo Travel Agency Website (UI Design)
 
 
 This is the UI/UX design for Travlo, a modern and user-friendly travel agency website created in Figma
